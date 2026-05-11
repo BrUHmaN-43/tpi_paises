@@ -15,10 +15,10 @@ filtrado, ordenamiento y estadísticas.
 
 ## Integrantes
 
-| Nombre completo | Legajo |
+| Nombre completo | Comisión |
 |----------------|--------|
-| (Nombre integrante 1) | (Legajo) |
-| (Nombre integrante 2) | (Legajo) |
+| (Nombre integrante 1) | (Comisión) |
+| (Nombre integrante 2) | (Comisión) |
 
 ---
 
