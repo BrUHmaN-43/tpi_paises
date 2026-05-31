@@ -17,8 +17,13 @@ filtrado, ordenamiento y estadísticas.
 
 | Nombre completo | Comisión |
 |----------------|--------|
+<<<<<<< HEAD
 | (Nombre integrante 1) | (Comisión) |
 | Suarez Taboada Mateo Ezequiel | 3 |
+=======
+| Julián Salcedo Scardino | M26 C1-16 |
+| (Nombre integrante 2) | (Comisión) |
+>>>>>>> cdb46f4fa1fc48a00ea65b9e4aac8e6b4c08d95f
 
 ---
 
