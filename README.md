@@ -17,7 +17,7 @@ filtrado, ordenamiento y estadísticas.
 
 | Nombre completo | Comisión |
 |----------------|--------|
-| (Nombre integrante 1) | (Comisión) |
+| Julián Salcedo Scardino | M26 C1-16 |
 | (Nombre integrante 2) | (Comisión) |
 
 ---
