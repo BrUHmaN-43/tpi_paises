@@ -5,9 +5,9 @@ Tecnicatura Universitaria en Programación — UTN
 
 ---
 
-## Profesores
+## Equipo docente - Programación 1
 
-| Nombre completo |
+| Profesores |
 |----------------|
 | Ariel Enferrel |
 | Martín A. Garcia |
