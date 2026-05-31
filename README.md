@@ -18,7 +18,7 @@ filtrado, ordenamiento y estadísticas.
 | Nombre completo | Comisión |
 |----------------|--------|
 | (Nombre integrante 1) | (Comisión) |
-| (Nombre integrante 2) | (Comisión) |
+| Suarez Taboada Mateo Ezequiel | 3 |
 
 ---
 
