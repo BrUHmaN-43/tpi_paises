@@ -5,6 +5,16 @@ Tecnicatura Universitaria en Programación — UTN
 
 ---
 
+## Profesores
+
+| Nombre completo |
+|----------------|
+| Ariel Enferrel |
+| Martín A. Garcia |
+| Cinthia Rigoni |
+
+---
+
 ## Descripción
 
 Aplicación de consola desarrollada en Python 3 que permite gestionar un dataset de países.
@@ -15,11 +25,10 @@ filtrado, ordenamiento y estadísticas.
 
 ## Integrantes
 
-| Nombre completo | Comisión |
-|----------------|--------|
-
-| Suarez Taboada Mateo Ezequiel | M26 C1-3 |
-| Julián Salcedo Scardino | M26 C1-16 |
+| Nombre completo | Comisión | DNI |
+|-----------------|----------|--------|
+| Salcedo Scardino Julián | M26 C1-16 | 47975164 |
+| Suarez Taboada Mateo Ezequiel | M26 C1-03 | 45243284 |
 
 ---
 
