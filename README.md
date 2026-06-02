@@ -25,10 +25,10 @@ filtrado, ordenamiento y estadísticas.
 
 ## Integrantes
 
-| Nombre completo | Comisión | DNI |
-|-----------------|----------|--------|
-| Salcedo Scardino Julián | M26 C1-16 | 47975164 |
-| Suarez Taboada Mateo Ezequiel | M26 C1-03 | 45243284 |
+| Nombre completo | Comisión | DNI | Correo electrónico |
+|-----------------|----------|--------|-----------------|
+| Salcedo Scardino Julián | M26 C1-16 | 47975164 | salcedoscardino456@gmail.com |
+| Suarez Taboada Mateo Ezequiel | M26 C1-03 | 45243284 | suareztaboadamateoezequiel@gmail.com |
 
 ---
 
