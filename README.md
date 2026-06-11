@@ -127,5 +127,11 @@ Se encontraron 1 resultado(s):
 
 ## Bibliografía
 
-- Documentación oficial de Python 3: https://docs.python.org/3/
-- Módulo csv de Python: https://docs.python.org/3/library/csv.html
+- Python Software Foundation. (2024). Python 3 Documentation: https://docs.python.org/3/
+- Python Software Foundation. (2024). csv — CSV File Reading and Writing: https://docs.python.org/3/library/csv.html
+- Python Software Foundation. (2024). Built-in Functions (sorted, max, min, sum): https://docs.python.org/3/library/functions.html
+- Python Software Foundation. (2024). Data Structures — Lists y Dictionaries: https://docs.python.org/3/tutorial/datastructures.html
+- Real Python. (2024). Reading and Writing CSV Files in Python: https://realpython.com/python-csv/
+- Real Python. (2024). How to Use sorted() and sort() in Python: https://realpython.com/python-sort/
+- Real Python. (2024). Dictionaries in Python: https://realpython.com/python-dicts/
+- Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media: https://www.oreilly.com/library/view/learning-python-5th/9781449355722/
