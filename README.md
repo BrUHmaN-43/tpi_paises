@@ -125,7 +125,7 @@ Se encontraron 1 resultado(s):
 
 ---
 
-## Bibliografía
+## Bibliografía / Webgrafía
 
 - Python Software Foundation. (2024). Python 3 Documentation: https://docs.python.org/3/
 - Python Software Foundation. (2024). csv — CSV File Reading and Writing: https://docs.python.org/3/library/csv.html
