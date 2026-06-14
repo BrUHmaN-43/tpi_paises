@@ -120,7 +120,7 @@ Se encontraron 1 resultado(s):
 
 ## Links
 
-- 📹 Video demostración: (agregar link)
+- 📹 Video demostración: https://youtu.be/xqEgS6bt7fA
 - 📄 Documentación PDF: (agregar link)
 
 ---
