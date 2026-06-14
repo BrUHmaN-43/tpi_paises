@@ -121,7 +121,7 @@ Se encontraron 1 resultado(s):
 ## Links
 
 - 📹 Video demostración: https://youtu.be/xqEgS6bt7fA
-- 📄 Documentación PDF: (agregar link)
+- 📄 Documentación PDF: https://github.com/BrUHmaN-43/tpi_paises/blob/main/Informe_TPI_Paises.pdf
 
 ---
 
